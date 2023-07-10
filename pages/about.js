@@ -10,6 +10,7 @@ export default function About() {
 			<h1>About</h1>
 			<p>My name is justin newton</p>
 			<p> / add img here / </p>
+			<p></p>
 			<h2>
 				<Link href="/">Back to home</Link>
 			</h2>
